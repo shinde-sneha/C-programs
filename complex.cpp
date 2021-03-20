@@ -66,6 +66,7 @@ int main()
 			c4.subtraction(c1,c2);
 			cout<<"Subtraction of complex number is:";
 			c4.putdata();
+			break;
 	}
 	
 	return 0;
